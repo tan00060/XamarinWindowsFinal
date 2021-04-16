@@ -1,0 +1,15 @@
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\bin\Debug\netstandard2.0\MichaelTanWindowFinal.deps.json
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\bin\Debug\netstandard2.0\MichaelTanWindowFinal.dll
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\bin\Debug\netstandard2.0\ref\MichaelTanWindowFinal.dll
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\bin\Debug\netstandard2.0\MichaelTanWindowFinal.pdb
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.csprojAssemblyReference.cache
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.AssemblyInfoInputs.cache
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.AssemblyInfo.cs
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.csproj.CoreCompileInputs.cache
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.dll
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\ref\MichaelTanWindowFinal.dll
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\MichaelTanWindowFinal.pdb
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs

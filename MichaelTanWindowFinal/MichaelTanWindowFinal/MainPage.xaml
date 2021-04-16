@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MichaelTanWindowFinal.MainPage">
+
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="MAD9146 FINAL" VerticalOptions="Center" HorizontalOptions="StartAndExpand" TextColor="White" FontSize="Medium"/>
+            <Button x:Name="settingsButton" Background="transparent" HorizontalOptions="EndAndExpand" FontFamily="FA-S" FontSize="Medium" Text="{StaticResource IconCog}" TextColor="White" Clicked="settingsButton_Clicked"/>
+        </StackLayout>        
+    </NavigationPage.TitleView>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.6*"></RowDefinition>
+            <RowDefinition Height="0.2*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Image x:Name="theImage" HorizontalOptions="Center" VerticalOptions="Center" 
+                SizeChanged="theImage_SizeChanged" MinimumHeightRequest="200" MinimumWidthRequest="200" Margin="10" Aspect="AspectFit"></Image>
+        <skia:SKCanvasView x:Name="mainCanvasControl" MinimumHeightRequest="200" MinimumWidthRequest="200" Margin="10" EnableTouchEvents="True" PaintSurface="mainCanvasControl_PaintSurface" Touch="mainCanvasControl_Touch"/>
+        <ActivityIndicator x:Name="theActivityIndicator" Grid.Row="1" Margin="10" Scale="0.5"></ActivityIndicator>
+
+        <ScrollView Grid.Row="1" VerticalOptions="Start">
+            <Label PropertyChanged="theResults_PropertyChanged" x:Name="theResults" FontSize="16" HorizontalTextAlignment="Center" Margin="10"></Label>
+        </ScrollView>
+
+        <StackLayout Grid.Row="2" Margin="0,0,0,20"  Orientation="Horizontal" VerticalOptions="Center" HorizontalOptions="Center">
+            <Button x:Name="webImageButton" Clicked="webImageButton_Clicked" Margin="10" Text="{StaticResource IconRandom}" FontFamily="FA-S" FontSize="Large" WidthRequest="50"></Button>
+            <Button x:Name="imageButton" Clicked="imageButton_Clicked" Margin="10" Text="{StaticResource IconFileImage}" FontFamily="FA-S" FontSize="Large" WidthRequest="50"></Button>
+            <Button x:Name="cameraButton" Clicked="cameraButton_Clicked" Margin="10" Text="{StaticResource IconCamera}" FontFamily="FA-S" FontSize="Large" WidthRequest="50"></Button>
+            <Button x:Name="faceButton" Clicked="faceButton_Clicked" Margin="10" Text="{StaticResource IconFace}" FontFamily="FA-S" FontSize="Large" BackgroundColor="Red" WidthRequest="70" IsEnabled="False" IsVisible="False"></Button>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\Users\tan00060\source\repos\MichaelTanWindowFinal\MichaelTanWindowFinal\MichaelTanWindowFinal.UWP\MichaelTanWindowFinal.UWP.csproj;x86
