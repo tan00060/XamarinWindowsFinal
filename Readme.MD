@@ -1,4 +1,4 @@
-# Xamarin Windows Final
+# Xamarin Azure Cognitive Services Application
 
 This is a two page Xamarin application that builds/deploys on the following three platforms:
 
