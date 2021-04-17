@@ -30,7 +30,7 @@ This is a two page Xamarin application that builds/deploys on the following thre
 
 For running it on a iOS, you will require an Apple computer. 
 You can use ZeroTier to connect to your device locally on your network and run the emulator using the pair to mac feature that visual studio provides.
--[ZeroTier](https://www.zerotier.com/download/)
+- [ZeroTier](https://www.zerotier.com/download/)
 
 This application uses the following technologies:
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
