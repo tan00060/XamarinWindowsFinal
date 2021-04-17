@@ -26,6 +26,11 @@ This is a two page Xamarin application that builds/deploys on the following thre
 
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 - [Azure Portal Account](https://portal.azure.com/#home)
+- [Android SDK](https://developer.android.com/studio) - To run it on an android device on your machine.
+
+For running it on a iOS, you will require an Apple computer. 
+You can use ZeroTier to connect to your device locally on your network and run the emulator using the pair to mac feature that visual studio provides.
+-[ZeroTier](https://www.zerotier.com/download/)
 
 This application uses the following technologies:
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
