@@ -52,4 +52,4 @@ Copy one key and the endpoint as we will be using these in our project. Remember
 
 In your MainPage.xaml.cs file in your field region, you will notice that we have added our APIKEY and ENDPOINT as private const that we can use within our application.
 
-<img src="https://i.imgur.com/Ao0rhvm.jpg" height="200" width="250" />
+<img src="https://i.imgur.com/Ao0rhvm.jpg" height="200" width="450" />
