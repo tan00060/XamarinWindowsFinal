@@ -8,7 +8,7 @@ This is a two page Xamarin application that builds/deploys on the following thre
 
 ## The application
 
-![img](https://raw.githubusercontent.com/tan00060/XamarinWindowsFinal/main/Images/StartScreen.PNG?token=ANBFY5LJFGTXZX53F36PMCTAQRPHU)
+![img](https://raw.githubusercontent.com/tan00060/XamarinWindowsFinal/main/Images/StartScreen.PNG?token=ANBFY5LJFGTXZX53F36PMCTAQRPHU | height=300)
 
 This application uses the following technologies:
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
