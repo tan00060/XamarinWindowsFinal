@@ -33,10 +33,10 @@ namespace MichaelTanWindowFinal
         private const string BASEURL = "https://source.unsplash.com/random/";
         private const string PORTRAITRESOLUTION = "960x1280";
         private const string LANDSCAPERESOLUTION = "1280x960";
-        private const string APIKEY = "9b413e65fc954f3b9fbdfa2d07ade7d7";
-        private const string ENDPOINT = "https://mad9145michael.cognitiveservices.azure.com/";
-        private const string FACEAPIKEY = "07f56c986d704fcc9a73ac7ee78bfcf7";
-        private const string FACEENDPOINT = "https://mad9145michaelface.cognitiveservices.azure.com/";
+        private const string APIKEY = "";
+        private const string ENDPOINT = "";
+        private const string FACEAPIKEY = "";
+        private const string FACEENDPOINT = "";
         private readonly List<VisualFeatureTypes?> features = new List<VisualFeatureTypes?>()
         {
             VisualFeatureTypes.Categories, VisualFeatureTypes.Description, VisualFeatureTypes.Faces, VisualFeatureTypes.ImageType, VisualFeatureTypes.Tags
