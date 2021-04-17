@@ -69,6 +69,8 @@ In your MainPage.xaml.cs file in your field region, you will notice that we have
 
 Once you have saved your the file with your apikeys and endpoints you can build the project.
 
+<img src="https://raw.githubusercontent.com/tan00060/XamarinWindowsFinal/main/Images/local%20machine.PNG?token=ANBFY5NP3HCRPBZKH2ZNNQLAQRUOQ" />
+
 ### Contact
 
 If you anyone questions please contact me at [e-mail](mailto:tan00060@algonquinlive.com)
