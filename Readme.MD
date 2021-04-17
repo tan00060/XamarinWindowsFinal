@@ -2,9 +2,7 @@
 
 This is a two page Xamarin application that builds/deploys on the following three platforms:
 
-#### Android
-#### iOS
-#### UWP
+#### Android ,iOS, UWP
 
 ## The application in UWP
 
@@ -63,8 +61,14 @@ git clone https://github.com/tan00060/XamarinWindowsFinal.git
 
 ### Adding your API to the project.
 
-Open your project in Visual Studio 2019
+Open your project in Visual Studio 2019.
 
 In your MainPage.xaml.cs file in your field region, you will notice that we have added our APIKEY and ENDPOINT as private const that we can use within our application. Add your newly generated keys into these regions.
 
 <img src="https://i.imgur.com/Ao0rhvm.jpg" height="200" width="500" />
+
+Once you have saved your the file with your apikeys and endpoints you can build the project.
+
+### Contact
+
+If you anyone questions please contact me at [e-mail](mailto:tan00060@algonquinlive.com)
