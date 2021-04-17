@@ -6,7 +6,7 @@ This is a two page Xamarin application that builds/deploys on the following thre
 #### iOS
 #### UWP
 
-## The application
+## The application in UWP
 
 
 ### Start Page
@@ -26,8 +26,20 @@ This is a two page Xamarin application that builds/deploys on the following thre
 
 This application uses the following technologies:
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Computer Vision Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
 
 To set up your cognitivite services account please head over to your [azure portal](https://portal.azure.com/#home) and click create a resource. Search for the following two items and create new instances of the services:
 
 - Computer Vision
 - Face
+
+### Getting your API
+
+When you have created your resource you will see an instance of Computer Vision Service/Face.
+
+Click on the go to resource button to see the detail of the instance that you ahve created.
+
+On the left side of your menu you will see a Keys and Endpoint.
+
+<img src="https://i.imgur.com/AoSl7bJ.png" width="100" height="250" />
+
