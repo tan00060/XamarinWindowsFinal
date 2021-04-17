@@ -43,3 +43,7 @@ On the left side of your menu you will see a Keys and Endpoint.
 
 <img src="https://i.imgur.com/AoSl7bJ.png" width="100" height="250" />
 
+You will be redirected to this page, where it provides you with two masked keys and an endpoint.
+
+Copy one key and the endpoint as we will be using these in our project. Remember to do it for both Computer Vision and Face.
+
