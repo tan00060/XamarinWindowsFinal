@@ -24,6 +24,11 @@ This is a two page Xamarin application that builds/deploys on the following thre
 ### Settings page
 <img src="https://raw.githubusercontent.com/tan00060/XamarinWindowsFinal/main/Images/SettingsPage.PNG?token=ANBFY5KYWONBYAKLN76PJALAQRP52" width="250" height="400"/>
 
+## Requirements
+
+- [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+- [Azure Portal Account](https://portal.azure.com/#home)
+
 This application uses the following technologies:
 - [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
 - [Computer Vision Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
@@ -48,7 +53,17 @@ You will be redirected to this page, where it provides you with two masked keys 
 Copy one key and the endpoint as we will be using these in our project. Remember to do it for both Computer Vision and Face.
 
 
+### Downloading the project
+
+Start by cloning the repo onto your desktop.
+
+```
+git clone https://github.com/tan00060/XamarinWindowsFinal.git
+```
+
 ### Adding your API to the project.
+
+Open your project in Visual Studio 2019
 
 In your MainPage.xaml.cs file in your field region, you will notice that we have added our APIKEY and ENDPOINT as private const that we can use within our application. Add your newly generated keys into these regions.
 
