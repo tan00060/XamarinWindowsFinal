@@ -4,8 +4,16 @@ This is a two page Xamarin application that builds/deploys on the following thre
 
 #### Android ,iOS, UWP
 
-## The application in UWP
+## Features
 
+- Text to Voice
+- Upload Image
+- Generate Random Image
+- Capture Photo
+- Face Recognition
+- Settings Page 
+
+## The application in UWP
 
 ### Start Page
 <img src="https://raw.githubusercontent.com/tan00060/XamarinWindowsFinal/main/Images/StartScreen.PNG?token=ANBFY5LJFGTXZX53F36PMCTAQRPHU" width="250" height="400"/>
